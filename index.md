@@ -6,3 +6,7 @@
 ```
   System.out.println("Hello World");
 ```
+
+- [ ] Activar paginas de GitHub
+- [ ] Esquema de mi cartera
+- [ ] Presentarme al mundo
